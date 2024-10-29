@@ -1,6 +1,8 @@
 # KursyYT
 
 ## Inkscape
+  - [Inkscape Tutorial](https://www.youtube.com/@Inkscape-tutorial-pl/playlists) (PL)
+  - [Inkscape Tutorials - TJ FREE](https://www.youtube.com/playlist?list=PLqazFFzUAPc5lOQwDoZ4Dw2YSXtO7lWNv) (EN)
   - [Inkscape - Kurs - Robert Sobucki](https://www.youtube.com/playlist?list=PLgEXMBTVUfOq7Ln4H_VJSuGROoM6ay813) (PL)
   - [Inkscape - Alpha cube](https://www.youtube.com/watch?v=bvA8BUxGUBw&list=PLa_5FJTA9uNWRNBrAJkxSmg9zSf-7vmzl) (PL)
   - [Inkscape Tutorials - Logos By Nick](https://www.youtube.com/playlist?list=PLynG8gQD-n8C-WYNovoPzWvxDMb1Ls_7S) (EN)
@@ -14,3 +16,6 @@
   - [Inkscape (Stare) - PL Tutors](https://www.youtube.com/playlist?list=PLIJJM1-zsiI5i06QS7s1bm0QmfjZ3xHIp) (PL)
   - [Turdus Concept](https://www.youtube.com/@TurdusConcept/search?query=Inkscape) (PL)
   - [Inkscape - INZET](https://www.youtube.com/playlist?list=PLmUsuDLFBtrvEVp7H9ykEvKB-PrfDAbG_) (PL)
+  - [Grafika wektorowa - INKSCAPE - AJ IT-Edukacja](https://www.youtube.com/watch?v=CMiPV23x87A&list=PL6_Dr-mn9pGfIsQTk8H6WfAJcOqwOkUum) (PL)
+  - [Inkscape Basics - Davies Media Design](https://www.youtube.com/playlist?list=PL_7viLFyJ7sAx1Ykjn5mqwVLfqIrs7UEy) (EN)
+  - [Inkscape Tutorials - Davies Media Design](https://www.youtube.com/playlist?list=PL_7viLFyJ7sAuF29DqmSNCDDULPpT9dyw) (PL)
