@@ -14,7 +14,7 @@
   - [Inkscape - PL Tutors](https://www.youtube.com/playlist?list=PLIJJM1-zsiI488KTeb24VzBeOQpG3s9v5) (PL)
   - [Inkscape (Stare) - PL Tutors](https://www.youtube.com/playlist?list=PLIJJM1-zsiI5i06QS7s1bm0QmfjZ3xHIp) (PL)
   - [Inkscape - INZET](https://www.youtube.com/playlist?list=PLmUsuDLFBtrvEVp7H9ykEvKB-PrfDAbG_) (PL)
-  - [Grafika wektorowa - INKSCAPE - AJ IT-Edukacja](https://www.youtube.com/watch?v=CMiPV23x87A&list=PL6_Dr-mn9pGfIsQTk8H6WfAJcOqwOkUum) (PL)
+  - [Grafika wektorowa - INKSCAPE - AJ IT-Edukacja](https://www.youtube.com/playlist?list=PL6_Dr-mn9pGfIsQTk8H6WfAJcOqwOkUum) (PL)
   - [Inkscape Basics - Davies Media Design](https://www.youtube.com/playlist?list=PL_7viLFyJ7sAx1Ykjn5mqwVLfqIrs7UEy) (EN)
   - [Inkscape Tutorials - Davies Media Design](https://www.youtube.com/playlist?list=PL_7viLFyJ7sAuF29DqmSNCDDULPpT9dyw) (PL)
 ---
